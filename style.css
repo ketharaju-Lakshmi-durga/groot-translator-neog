@@ -75,8 +75,9 @@
     footer p {
         max-width: var(--width-break);
     margin: auto;
-    background: rgb(255, 255, 255,0.5);
-        color:#2563EB;
+    background-color:#1258ee;
+
+        color:white;
     }
     
 }
