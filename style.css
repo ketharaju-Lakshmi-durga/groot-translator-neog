@@ -65,7 +65,7 @@
     overflow:scroll;
     border: 1px solid var(--width);
     background: rgb(255, 255, 255,0.5);
-        color:#2563EB;
+        color:black;
     }
     footer {
         bottom: 0;
@@ -151,7 +151,7 @@ button {
     max-height: 30vh;
     overflow:scroll;
     border: 1px solid var(--width);
-    color:#00cc00;
+    color:black;
     background: rgb(255, 255, 255,0.5);
 }
 
