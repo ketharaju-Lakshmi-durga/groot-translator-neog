@@ -145,7 +145,7 @@ button {
     overflow:scroll;
     border: 1px solid var(--width);
     color:#00cc00;
-    background:linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),;
+    background:linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5));
 }
 
 footer {
