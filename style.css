@@ -92,8 +92,8 @@ body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     color: #00cc00;
-    background:linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url("/images/grootbbe2.jpg");
-
+    background-image:url("/images/grootbbe2.jpg");
+    
     background-position:left center;
     background-repeat:no-repeat;
 
@@ -145,7 +145,7 @@ button {
     overflow:scroll;
     border: 1px solid var(--width);
     color:#00cc00;
-    background-color:transparent;
+    background:linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),;
 }
 
 footer {
