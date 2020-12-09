@@ -34,6 +34,7 @@
         margin-top: 2rem;
         font-size: large;
         font-family: inherit;
+        background: rgb(255, 255, 255,0.5);
     }
     
     body {
@@ -74,6 +75,7 @@
     footer p {
         max-width: var(--width-break);
     margin: auto;
+    background: rgb(255, 255, 255,0.5);
         color:#2563EB;
     }
     
@@ -119,6 +121,7 @@ textarea {
     margin-top: 2rem;
     font-size: large;
     font-family: inherit;
+    background: rgb(255, 255, 255,0.5);
 }
 
 button {
@@ -145,7 +148,7 @@ button {
     overflow:scroll;
     border: 1px solid var(--width);
     color:#00cc00;
-    background: rgba(76, 175, 80, 0.1);
+    background: rgb(255, 255, 255,0.5);
 }
 
 footer {
@@ -158,6 +161,7 @@ footer {
 
 footer p {
     max-width: var(--width-break);
+    background: rgb(255, 255, 255,0.5);
     color:#00cc00;
     margin: auto;
 }
