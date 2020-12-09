@@ -61,7 +61,7 @@
     max-height: 30vh;
     overflow:scroll;
     border: 1px solid var(--width);
-    background: rgba(76, 175, 80, 0.1);;
+    background: rgb(255, 255, 255,0.5);
         color:#2563EB;
     }
     footer {
