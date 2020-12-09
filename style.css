@@ -3,7 +3,7 @@
 *{
     box-sizing: border-box;
 }
-@media(min-width:500px) and (max-width:1099px)
+@media(min-width:100px) and (max-width:1099px)
 {
     nav {
    
