@@ -163,7 +163,8 @@ footer {
 footer p {
     max-width: var(--width-break);
     background: rgb(255, 255, 255,0.5);
-    color:#00cc00;
+    background-color:#00cc00;
     margin: auto;
+    color:white;
 }
 }
